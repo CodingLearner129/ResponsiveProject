@@ -52,6 +52,9 @@
 #contact-box form{
     width: 76%;
 }
+#contact-box .sbtn{
+    width: 36%;
+}
 
 /* Footer  */
 
